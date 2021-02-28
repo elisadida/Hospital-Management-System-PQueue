@@ -1,0 +1,150 @@
+c:\users\dell\documents\visual studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.RoomInfo.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Form1.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.RoomInfo.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+F:\Sem.4\C# Projects\Trials\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.RoomInfo.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+F:\Code Projects Files\NEWW C Projects 19nov\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Form1.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\PC\Desktop\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Form1.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\PC\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Form1.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Recep.resources
+C:\Users\User\Downloads\AnisaProjekt\AnisaProjekt\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojAssemblyReference.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Recep.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Elisa\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffHome.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital.mdf
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\hospital_log.ldf
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe.config
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\bin\Debug\HospitalManagementSystemCSharp.pdb
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Login.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Recep.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Home.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientCheckOut.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientInformation.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.PatientRegistration.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.StaffInformation.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.ViewwPatientCheckOut.resources
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.exe
+C:\Users\User\OneDrive\Desktop\AnisaProjekt\HospitalManagementSystemCSharp\obj\Debug\HospitalManagementSystemCSharp.pdb
